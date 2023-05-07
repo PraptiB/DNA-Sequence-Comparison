@@ -25,4 +25,5 @@ This code uses Python and the Tkinter library for creating the graphical user in
 
 
 -Prapti Bhatt
+<br>
 -Ritika Kuwera
