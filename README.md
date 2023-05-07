@@ -1,6 +1,6 @@
 # DNA Sequence Comparison
 
-<h2>Problem Statment:To provide insights into the structural and functional properties of the DNA sequences, such as the presence of conserved domains or regulatory regions.</h2>
+<h2>Problem Statement:To provide insights into the structural and functional properties of the DNA sequences, such as the presence of conserved domains or regulatory regions.</h2>
 
 
 This Python code compares two DNA sequences using two algorithms called Longest Common Subsequence (LCS) and Longest Increasing Subsequence (LIS). The LCS algorithm finds the longest common subsequence between the two sequences, which represents the portion of the sequences that is most similar. The LIS algorithm then finds the longest subsequence in increasing order within the LCS, which can provide insights into the functional properties of the DNA sequences.
