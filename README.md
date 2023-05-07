@@ -19,3 +19,10 @@ To use this code, run the create_gui() function, which will create a graphical u
 
 
 This code uses Python and the Tkinter library for creating the graphical user interface.
+
+
+<h2>Credits</h2>
+
+
+-Prapti Bhatt
+-Ritika Kuwera
